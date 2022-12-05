@@ -1,0 +1,42 @@
+table{ 
+    background-color:rgb(26, 202, 129);
+}
+.A{
+    height: 230px;px;
+    background-color:rgb(26, 202, 129);
+    font-size: 30px;
+    border: 5px red solid;
+    text-align: center;
+}
+.C{
+    border:5px red solid;
+    background-color:yellow;
+    margin-top: 3px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+a:visite{
+    color:red;
+}
+.text{
+    border: 5px red solid;
+    height: 800px;
+ 
+} 
+body{
+    background-image: url("https://img.freepik.com/premium-photo/portrait-african-american-male-fitness-trainer-bodybuilder-showing-his-biceps-looking-side-gym-background_116317-12108.jpg?w=740");
+    background-size: 100%;
+    color: white;
+}
+.text button{
+    width: 170px;
+    height: 44px;
+    background-color: rgb(167, 25, 25);
+    color: white;
+    border: none;
+    margin-top: 50px;
+    font-size: 25px;
+    
+}
